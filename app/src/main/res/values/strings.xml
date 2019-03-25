@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WordsShuffler</string>
+    <string name="FirstRange">첫번째 범위</string>
+    <string name="SecondRange">두번째 범위</string>
+    <string name="InsertButton">입력</string>
+    <string name="ShuffleButton">셔플</string>
+</resources>
